@@ -26,7 +26,7 @@ const greeting = {
     "Experienced software developer with 13 years of expertise in backend web development and team leadership. 🚀 Proven track record of delivering high-quality software solutions and managing projects from concept to completion. Passionate about leveraging technology to drive innovation and efficiency. Seeking a remote software development role to contribute technical prowess and leadership skills to a dynamic team."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Km4tgTgUcM0ZKT-BVCx84rCf3ze3bNT1/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1F5KPDOkWxXHcK5uEV9gv6oymA1DjvjN6/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -242,7 +242,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -360,7 +360,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -407,7 +407,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "fon_ame", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
